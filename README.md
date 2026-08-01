@@ -16,6 +16,6 @@
 
 ## 当前批次
 
-- [01 MAC 基础片段](/C:/Users/ASUS/Documents/ai芯片最小单元设计与仿真验证/reading_drills/01_mac_foundations.md)：16 个片段，全部来自或紧贴当前 `mac_pe` 和 testbench。
-- [02 组合逻辑、参数与 FIFO](/C:/Users/ASUS/Documents/ai芯片最小单元设计与仿真验证/reading_drills/02_comb_case_params_fifo.md)：16 个片段，面向下一步的 Buffer 与数据流设计。
+- [01 MAC 基础片段](01_mac_foundations.md)：16 个片段，全部来自或紧贴当前 `mac_pe` 和 testbench。
+- [02 组合逻辑、参数与 FIFO](02_comb_case_params_fifo.md)：16 个片段，面向下一步的 Buffer 与数据流设计。
 
